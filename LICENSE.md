@@ -1,6 +1,6 @@
 License.md
 
-Book C++ Como Programar - 5a Edição - Ano: 2006
+Book: C++ Como Programar - 5a Edição - Ano: 2006
 
 Author: Harvey M. Deitel e Paul J. Deitel
 
